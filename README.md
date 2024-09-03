@@ -7,7 +7,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p align="left">
-  I'm a game developer who loves turning ideas into immersive experiences. Whether it's coding the next big hit or enjoying a gaming session, my life revolves around the world of games. I'm constantly exploring new technologies and design patterns to push the boundaries of what games can offer.
+  I'm a game developer who loves turning ideas into immersive experiences. Whether it's coding the next big hit or enjoying a gaming session, my life revolves around the world of games. I'm constantly exploring new technologies and programming patterns to push the boundaries of what games can offer.
 </p>
 
 <h3 align="left">🔗 Connect with Me:</h3>
