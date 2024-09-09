@@ -37,6 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adag21044&theme=dark" alt="adag21044" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical)
 
 
