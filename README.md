@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">Passionate Game Developer & Gamer</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=adag21044&label=Profile%20views&color=0e75b6&style=flat" alt="adag21044" />
 </p>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">🔗 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adag21044" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adag21044" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/adag21044" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adag21044" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -25,11 +25,10 @@
   </a>
 </p>
 
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adag21044&theme=dark" alt="adag21044" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical)
-
-
+<p align="left">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical)
+</p>
