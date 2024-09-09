@@ -30,6 +30,5 @@
 </p>
 
 <p align="left">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical" alt="adag21044" />
 </p>
-
