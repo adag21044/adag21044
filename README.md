@@ -25,10 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adag21044&layout=compact&theme=dark" alt="adag21044" />
-</p>
+
 
 
 
