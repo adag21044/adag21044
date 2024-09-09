@@ -26,14 +26,7 @@
 </p>
 
 
-
-
-
-
-
-
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adag21044&theme=dark" alt="adag21044" />
 </p>
 
