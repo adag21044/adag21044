@@ -25,6 +25,11 @@
   </a>
 </p>
 
+<h3 align="left">📊 Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adag21044&layout=compact&theme=radical" alt="adag21044 Most Used Languages" />
+</p>
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adag21044&theme=dark" alt="adag21044" />
 </p>
