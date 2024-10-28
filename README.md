@@ -53,15 +53,6 @@
 
 
 
-<h2 align="center">🏆 Highlights & Achievements</h2>
-<ul>
-  <li>⚡ <strong>Developed 20+ Projects:</strong> Including design patterns, algorithms, and complex gameplay mechanics.</li>
-  <li>💡 <strong>Specialized in Unity:</strong> With a focus on performance optimization, realistic physics, and game AI.</li>
-  <li>🎓 <strong>Contributor & Mentor:</strong> Created resources and examples to help aspiring developers understand complex patterns.</li>
-  <li>🌐 <strong>Active in Open Source:</strong> Collaborated on multiple open-source projects, contributing ideas and optimizations.</li>
-</ul>
-
-
 <h2 align="center">🎮 Featured Projects</h2>
 
 <table align="center">
