@@ -9,7 +9,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm a passionate game developer specializing in building interactive, immersive experiences with Unity and C#. My focus is on pushing creative and technical boundaries to design games that engage, entertain, and inspire. I'm constantly exploring advanced programming patterns, realistic physics, and AI to elevate gameplay quality.
+  I am a passionate game developer dedicated to creating immersive experiences using Unity and C#. My focus is on pushing creative and technical boundaries to design games that engage, entertain, and inspire. I'm constantly exploring advanced programming patterns, realistic physics, and AI to elevate gameplay quality.
 </p>
 <p align="center">
   When I'm not coding, you'll find me gaming, learning about the latest in game development, or experimenting with new technologies. I'm always seeking ways to make games more dynamic, challenging, and visually captivating.
