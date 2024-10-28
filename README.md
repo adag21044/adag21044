@@ -72,7 +72,7 @@
 
 <h2 align="center">💬 Let's Collaborate</h2>
 <p align="center">
-  If you're passionate about game development, advanced coding patterns, or AI in gaming, let's connect! I'm open to collaborations that challenge me to think creatively and solve complex problems in innovative ways.
+  If you're passionate about game development, advanced coding patterns, let's connect! I'm open to collaborations that challenge me to think creatively and solve complex problems in innovative ways.
 </p>
 
 
