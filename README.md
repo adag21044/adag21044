@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="center">🏆 Achievements & Highlights</h3>
+<h3 align="center">🏆 Highlights</h3>
 <ul>
   <li>🎉 Created over 20 repositories on game development concepts, design patterns, and full game projects</li>
   <li>💡 Explored advanced Unity features, including design patterns like Observer, Iterator, and Command</li>
