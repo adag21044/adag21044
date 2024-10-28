@@ -69,10 +69,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adag21044&theme=dracula&column=7" alt="adag21044 Trophies" />
-</p>
 
----
 
 <p align="center">✨ Crafted with a passion for code and games ✨</p>
