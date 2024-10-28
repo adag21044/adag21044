@@ -52,22 +52,6 @@
 </p>
 
 
-
-<h2 align="center">🎮 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td><strong>Unity-Observer-Design-Pattern</strong><br>Implementation of the Observer pattern in Unity.</td>
-    <td><strong>Unity-Top-Down-Shooter-Roguelike</strong><br>A rogue-like shooter game with top-down mechanics and unique AI behavior.</td>
-  </tr>
-  <tr>
-    <td><strong>Flutter-ToDo-App</strong><br>A sleek, intuitive To-Do application built with Flutter.</td>
-    <td><strong>Data-Structures-and-Algorithms-in-Csharp</strong><br>Explorations into data structures and algorithms, optimized for gaming.</td>
-  </tr>
-</table>
-
-
-
 <h2 align="center">🏅 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adag21044&theme=dracula&column=7" alt="adag21044 Trophies" />
