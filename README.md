@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/github/followers/adag21044?label=Followers&style=social" alt="adag21044 followers" />
 </p>
 
----
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
@@ -16,7 +15,7 @@
   When I'm not coding, you'll find me gaming, learning about the latest in game development, or experimenting with new technologies. I'm always seeking ways to make games more dynamic, challenging, and visually captivating.
 </p>
 
----
+
 
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
@@ -31,7 +30,7 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
@@ -52,7 +51,6 @@
   </a>
 </p>
 
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -61,14 +59,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adag21044&theme=radical" alt="Profile Details" />
 </p>
 
----
+
 
 <h2 align="center">📈 Most Used Languages</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adag21044&layout=compact&theme=radical" alt="adag21044 Most Used Languages" />
 </p>
 
----
+
 
 <h2 align="center">🏆 Highlights & Achievements</h2>
 <ul>
@@ -78,7 +76,6 @@
   <li>🌐 <strong>Active in Open Source:</strong> Collaborated on multiple open-source projects, contributing ideas and optimizations.</li>
 </ul>
 
----
 
 <h2 align="center">🎮 Featured Projects</h2>
 
@@ -93,20 +90,20 @@
   </tr>
 </table>
 
----
+
 
 <h2 align="center">🏅 GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=adag21044&theme=dracula&column=7" alt="adag21044 Trophies" />
 </p>
 
----
+
 
 <h2 align="center">💬 Let's Collaborate</h2>
 <p align="center">
   If you're passionate about game development, advanced coding patterns, or AI in gaming, let's connect! I'm open to collaborations that challenge me to think creatively and solve complex problems in innovative ways.
 </p>
 
----
+
 
 <p align="center">✨ Bringing Ideas to Life through Code & Games ✨</p>
