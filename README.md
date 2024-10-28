@@ -22,12 +22,6 @@
   <a href="https://linkedin.com/in/adag21044" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adag21044 LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="30" width="30" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="30" width="30" />
-  </a>
 </p>
 
 
