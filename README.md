@@ -55,7 +55,6 @@
   <li>🎉 Created over 20 repositories on game development concepts, design patterns, and full game projects</li>
   <li>💡 Explored advanced Unity features, including design patterns like Observer, Iterator, and Command</li>
   <li>📘 Developed educational resources and example projects for aspiring game developers</li>
-  <li>🌐 Engaged in open-source contributions and collaborated with other developers in the game dev community</li>
 </ul>
 
 
