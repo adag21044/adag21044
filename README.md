@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">🎮 Game Developer | Immersive Experience Creator | Gaming Enthusiast 🎮</h3>
+<h3 align="center">🎮 Game Developer | Gaming Enthusiast 🎮</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adag21044&label=Profile%20views&color=0e75b6&style=flat" alt="adag21044 profile views" />
