@@ -12,6 +12,9 @@
   I am a passionate game developer dedicated to creating immersive experiences using Unity and C#. My focus is on pushing creative and technical boundaries to design games that engage, entertain, and inspire. I'm constantly exploring advanced programming patterns, physics, and AI to elevate gameplay quality.
 </p>
 <p align="center">
+  I also leverage AI tools to create unique in-game assets, enhancing both the visual appeal and overall player experience.
+</p>
+<p align="center">
   When I'm not coding, you'll find me gaming, learning about the latest in game development, or experimenting with new technologies. I'm always seeking ways to make games more dynamic, challenging, and visually captivating.
 </p>
 
