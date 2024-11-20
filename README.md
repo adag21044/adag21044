@@ -15,6 +15,9 @@
   I also leverage AI tools to create unique in-game assets, enhancing both the visual appeal and overall player experience.
 </p>
 <p align="center">
+  I closely follow the latest developments in the gaming industry, including new releases and technologies, and enjoy playing AAA games to stay inspired and up-to-date with industry standards.
+</p>
+<p align="center">
   When I'm not coding, you'll find me gaming, learning about the latest in game development, or experimenting with new technologies. I'm always seeking ways to make games more dynamic, challenging, and visually captivating.
 </p>
 
