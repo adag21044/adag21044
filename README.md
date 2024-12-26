@@ -81,6 +81,8 @@
   If you're passionate about game development, advanced coding patterns, let's connect! I'm open to collaborations that challenge me to think creatively and solve complex problems in innovative ways.
 </p>
 
+<h2 align="center">🎮 Gaming Reviews</h2> <p align="center"> In addition to developing games, I enjoy analyzing and reviewing the games I play. I share my insights, thoughts, and detailed analyses on Medium. Check out my gaming reviews: </p> <p align="center"> <a href="https://medium.com/@adag21044" target="_blank"> <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=Medium&logoColor=white" alt="adag21044 Medium Profile" /> </a> </p>
+
 
 
 <p align="center">✨ Bringing Ideas to Life through Code & Games ✨</p>
