@@ -57,7 +57,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adag21044&show_icons=true&theme=radical" alt="adag21044 GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adag21044&theme=dark" alt="adag21044 GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adag21044&theme=radical" alt="Profile Details" />
 </p>
 
