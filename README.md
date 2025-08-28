@@ -68,12 +68,6 @@
 </p>
 
 
-<h2 align="center">🏅 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adag21044&theme=dracula&column=7" alt="adag21044 Trophies" />
-</p>
-
-
 
 <h2 align="center">💬 Let's Collaborate</h2>
 <p align="center">
