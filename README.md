@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="images/banner.jpeg" width="800"/>
+  <img src="images/banner.jpeg" width="25%"/>
 </p>
 
 <!-- 🐍 Contribution Snake -->
