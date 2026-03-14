@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/github/followers/adag21044?label=Followers&style=social" alt="adag21044 followers" />
 </p>
 
+<p align="center">
+  <img src="images/banner.jpeg" width="800"/>
+</p>
+
 <!-- 🐍 Contribution Snake -->
 <p align="center">
   <picture>
