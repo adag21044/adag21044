@@ -40,6 +40,19 @@
   </a>
 </p>
 
+<h2 align="center">📱 My Game on Google Play</h2>
+<p align="center">
+  <b>American Life Simulator</b><br/>
+  Download and play on Google Play.
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.joyloopgames.americanlifesimulator" target="_blank">
+    <img alt="Get it on Google Play"
+         src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+         height="80" />
+  </a>
+</p>
+
 <h2 align="center">🔗 Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/adag21044" target="_blank">
